@@ -12,13 +12,13 @@ using namespace std;
         return a - b;
     }
 
-    
+
 int main() {
 
 
     cout << "Hola Clase!!";
-    cout << "La suma de 1 y 2 es: " << suma(1, 2) << "!!";
-    cout << "La resta de 2 y 1 es: " << resta(2, 1) << "!!";
+    cout << "La suma de 1 y 2 es: " << suma(1, 2) << "!!" << endl;
+    cout << "La resta de 2 y 1 es: " << resta(2, 1) << "!!"<< endl;
     
     
     
